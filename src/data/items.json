@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "2014 Audi A5",
+        "price": 9495,
+        "imgUrl": "/imgs/audi-a5.jpg"
+    },
+    {
+        "id": 2,
+        "name": "2014 BMW 4 Series",
+        "price": 10500,
+        "imgUrl": "/imgs/bmw-4-series.jpg"
+    },
+    {
+        "id": 3,
+        "name": "2014 Mercedes-Benz E Class",
+        "price": 11999,
+        "imgUrl": "/imgs/mercedes-benz-e-class.png"
+    },
+    {
+        "id": 4,
+        "name": "2013 Audi A7",
+        "price": 11200,
+        "imgUrl": "/imgs/audi-a7.jpg"
+    }
+]
