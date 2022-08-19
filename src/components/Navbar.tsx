@@ -23,7 +23,7 @@ export function Navbar() {
             variant="outline-dark" 
             className="rounded-circle"
             >
-                <img src="/src/components/cart.svg"></img>
+                <img src="https://raw.githubusercontent.com/rehan-c/odin-shopping-cart/6afc88762a971a78b057a63cb9ec73e48f125b0f/src/components/cart.svg"></img>
                 <div className="rounded-circle bg-danger d-flex justify-content-center 
                 align-items-center"
                 style={{color: "white", 
